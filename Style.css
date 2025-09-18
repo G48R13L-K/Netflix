@@ -3,7 +3,6 @@
     padding: 0;
     box-sizing: border-box;
     
-
 }
 
 header{
@@ -86,5 +85,5 @@ body main button{
 body main button:hover{
     transform: scale(1.05);
     transition: all 0.3s ease-in-out;
-    color: rgb(173, 7, 7);
+    color: #ad0707;
 }
